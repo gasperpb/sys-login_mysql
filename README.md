@@ -1,3 +1,55 @@
+###  Systema para logar usando um banco de dados mysql para fins de estuddos das estruturas e arquivo de configuração do react para futuras 
+# implementação em projetos futuros.
+
+## Usei o banco de dados mysql para fazer a conexão com o react, para fins de estudos e aprendizado, para futuras implementações em projetos futuros.
+
+
+
+``` Foi usado as bibliotecas com cors, express, mysql
+    npm install cors express mysql;
+```
+
+
+## Para rodar o projeto, é necessario ter o node instalado na maquina, e o banco de dados mysql, e o workbench para criar o banco de dados e a tabela.
+
+``` Para rodar o projeto, é necessario ter o node instalado na maquina, e o banco de dados mysql, e o workbench para criar o banco de dados e a tabela.
+    npm install;
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
