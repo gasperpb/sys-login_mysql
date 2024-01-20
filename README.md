@@ -18,6 +18,13 @@
 
 
 
+### Dia 19-01-24
+Estudando conceito de hooks para deixar as paginas privadas.
+
+
+
+
+
 
 
 

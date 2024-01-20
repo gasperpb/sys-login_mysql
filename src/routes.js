@@ -1,13 +1,14 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-
-import Home from "./pages/home";
-//import Login from "./Login";
+import Hook from "./hooks/hook copy";
+import Login from "./Login";
 
 function AppRoutes() {
   return (
     <Router>
       <Routes>
-        <Route path="/home" element={<Home />} />
+         <Route path="/login" element={<Login />} />
+          <Route path="/hook" element={<Hook />} />
+
       </Routes>
     </Router>
   );
